@@ -91,7 +91,7 @@ x->sin(x)
 # long form
 function f₃(x,α=3) # default parameter
 	return x^α  # the "return" is optional
-end
+end 
 
 # ╔═╡ f07fbc6c-76ab-11eb-3382-87c7d65b4078
  f₃(5)
